@@ -1,0 +1,25 @@
+{
+  "people": [
+    {
+      "name": "name of the person",
+      "image_path": "name of the image",
+      "parent_number": "parent num "
+    },
+    {
+      "name": "name of the person",
+      "image_path": "name of the image",
+      "parent_number": "parent num "
+    },
+     {
+      "name": "name of the person",
+      "image_path": "name of the image",
+      "parent_number": "parent num "
+    },
+      
+  ],
+    "on_duty_students": [
+      "od student names",
+  ]
+}
+
+
