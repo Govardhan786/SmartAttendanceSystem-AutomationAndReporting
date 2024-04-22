@@ -13,7 +13,7 @@ The Smart Attendance System automates attendance management, report generation, 
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/SmartAttendanceSystem.git
+   git clone https://github.com/Govardhan786/SmartAttendanceSystem.git
    ```
 
 2. Install dependencies:
@@ -43,5 +43,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-For any questions or inquiries, please contact [My-email](govardhankumarv@gmail.com).
+For any questions or inquiries, please contact govardhankumarv@gmail.com
 
